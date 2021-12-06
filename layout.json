@@ -5,7 +5,6 @@
         "hostname": "%{payoutssendernodeweb_host}",
         "port": "443",
         "serviceTier": "front-tier",
-        "scopes": [],
-        "sessions": false
+        "scopes": []
     }
 }
