@@ -1,0 +1,20 @@
+{
+    "name": "@paypalcorp/payoutssendernodeweb",
+    "version": "1.0.0",
+    "description": "payoutssendernodeweb servicecore configuration client",
+    "url": "https://github.paypal.com/NodeServices-R/node-payoutssendernodeweb",
+    "repository": {
+        "type": "git",
+        "url": "git://github.paypal.com/NodeServices-R/node-payoutssendernodeweb.git"
+    },
+    "bugs": "https://github.paypal.com/NodeServices-R/node-payoutssendernodeweb/issues",
+    "publishConfig": {
+        "registry": "https://npm.paypal.com"
+    },
+    "scripts": {
+        "lint": "echo \" linting...\"",
+        "cover": "echo \" coverage...\"",
+        "build": "echo \" build...\"",
+        "test": "node -e 'require(\"./layout.json\")'"
+    }
+}

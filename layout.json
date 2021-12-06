@@ -1,0 +1,11 @@
+{
+    "root": "services",
+    "layout": {
+        "transport": "ppaas",
+        "hostname": "%{payoutssendernodeweb_host}",
+        "port": "443",
+        "serviceTier": "front-tier",
+        "scopes": [],
+        "sessions": false
+    }
+}
